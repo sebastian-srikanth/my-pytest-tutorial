@@ -1,6 +1,4 @@
 # pytest-tutorial
-Understand basic settings required to perform Unit testing and Scoring Python Code
-# pytest-tutorial
 Understand basic settings required to perform Pytest and Score your Python Code
 
 # Pre Requisites
