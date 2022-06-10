@@ -1,0 +1,19 @@
+black
+pytest
+pytest-html
+pytest-cov
+pylint
+radon
+autopep8
+mypy
+boto3
+bs4
+requests
+graphviz
+pydot
+
+# SKlearn
+pandas
+matplotlib
+sklearn
+numpy
