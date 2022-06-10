@@ -1,7 +1,7 @@
 # set base image (host OS)
 FROM python:3.8
 
-LABEL maintainer="Sebastian Srikanth Kumar <sebastin.kumar@factspan.com>"
+LABEL maintainer="Sebastian Srikanth Kumar <sebastiansrikanth94@gmail.com.com>"
 
 # copy the dependencies file to the working directory
 COPY requirements.txt .
